@@ -18,12 +18,14 @@ My goal is to gain deep expertise in software and AI, contribute to high-impact 
 </p>
 
 <br>
+<br>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:006aff,100:006aff&height=1" width="80%">
 </p>
 
 <br>
+
 
 
 <div align="center">
