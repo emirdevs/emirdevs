@@ -6,7 +6,10 @@
 
 <h3 align="center">ABOUT ME</h3>
 
-<p align="left">As a Computer Engineering student, I am continuously focused on developing my skills in software development and artificial intelligence. Thanks to my strong analytical thinking and problem-solving abilities, I enjoy transforming complex problems into efficient and innovative solutions. I primarily focus on mobile application development, working extensively with Flutter, and continuously improving my expertise in this area. Additionally, I aim to integrate AI into mobile applications to create smarter, more interactive, and innovative systems. My goal is to gain deep expertise in software and AI, contribute to high-impact projects, and develop solutions that deliver real value. I am a fast learner, work well in teams, and value long-term growth. Beyond software, I am also interested in combining technical and creative skills by working on graphic design and mobile UI/UX design.</p>
+<p align="left">As a Computer Engineering student, I am continuously focused on developing my skills in software development and artificial intelligence. Thanks to my strong analytical thinking and problem-solving abilities, I enjoy transforming complex problems into efficient and innovative solutions. I primarily focus on mobile application development, working extensively with Flutter, and continuously improving my expertise in this area. Additionally, I aim to integrate AI into mobile applications to create smarter, more interactive, and innovative systems.
+
+My goal is to gain deep expertise in software and AI, contribute to high-impact projects, and develop solutions that deliver real value. I am a fast learner, work well in teams, and value long-term growth. Beyond software, I am also interested in combining technical and creative skills by working on graphic design and mobile UI/UX design.
+</p>
 
 <br>
 
