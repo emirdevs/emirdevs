@@ -20,7 +20,7 @@ My goal is to gain deep expertise in software and AI, contribute to high-impact 
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:006aff,100:006aff&height=1" width="70%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:006aff,100:006aff&height=1" width="80%">
 </p>
 
 <br>
@@ -35,5 +35,5 @@ My goal is to gain deep expertise in software and AI, contribute to high-impact 
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:006aff,100:006aff&height=1" width="70%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:006aff,100:006aff&height=1" width="80%">
 </p>
