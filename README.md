@@ -1,8 +1,14 @@
 <div align="center">
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=23&pause=1000&color=0658aa&center=true&vCenter=true&width=400&lines=WELCOME+TO+MY+PROFİLE!" alt="Typing SVG" />
-  </a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=4000&size=23&pause=1000&color=006aff&center=true&vCenter=true&width=400&lines=WELCOME+TO+MY+PROFILE!;«+EMİR+MİRAÇ+GEZER+»;emirgezer.com" alt="Typing SVG" />
+</a>
+
+  <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:006aff,100:006aff&height=1" width="100%">
+</p>
+
+<br>
 
 <h3 align="center">ABOUT ME</h3>
 
@@ -14,7 +20,7 @@ My goal is to gain deep expertise in software and AI, contribute to high-impact 
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:1f6feb&height=2" width="70%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:006aff,100:006aff&height=1" width="70%">
 </p>
 
 <br>
@@ -29,5 +35,5 @@ My goal is to gain deep expertise in software and AI, contribute to high-impact 
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:1f6feb&height=2" width="70%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:006aff,100:006aff&height=1" width="70%">
 </p>
