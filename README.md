@@ -12,9 +12,9 @@
 
 <h3 align="center">ABOUT ME</h3>
 
-<p align="center">As a Computer Engineering student, I am continuously focused on developing my skills in software development and artificial intelligence. My strong analytical thinking and problem-solving abilities, I enjoy transforming complex problems into efficient and innovative solutions. I primarily focus on mobile application development, working extensively with Flutter, and continuously improving my expertise in this area. Additionally, I aim to integrate AI into mobile applications to create smarter, more interactive, and innovative systems.
+<p align="center">Hello, I’m Emir Miraç Gezer. I focus on backend development, web technologies, and system security, with a particular focus on C# and ASP.NET Core. I am dedicated to building modern, secure, and scalable backend systems while continuously improving my knowledge of software architecture, performance, and secure coding practices. I am also interested in integrating artificial intelligence technologies into backend systems to create smarter and more capable applications.
 
-My goal is to gain deep expertise in software and AI, contribute to high-impact projects, and develop solutions that deliver real value. I am a fast learner, work well in teams, and value long-term growth. Beyond software, I am also interested in combining technical and creative skills by working on graphic design and mobile UI/UX design.
+My goal is to develop deep expertise in backend development and build secure, high-performance, and maintainable systems while enhancing them through AI technologies. I aim to solve real-world problems with technical and innovative solutions, continuously improve my skills, and ultimately become a software engineer who can effectively combine backend development with AI technologies.
 </p>
 
 <br>
