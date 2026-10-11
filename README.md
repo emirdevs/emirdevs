@@ -23,6 +23,8 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=50&text=ABOUT%20ME&fontColor=34C997&fontSize=24&fontAlignY=50" alt="About me">
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=34C997&height=30" width="56" alt="">
 </p>
 
 <p align="center">
@@ -44,25 +46,19 @@
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=50&text=WHAT%20I%20FOCUS%20ON&fontColor=34C997&fontSize=24&fontAlignY=50" alt="What I focus on">
-</p>
-
-<p align="center">
-  <sub><b>RELIABLE</b> &nbsp;·&nbsp; <b>SECURE</b> &nbsp;·&nbsp; <b>SCALABLE</b> &nbsp;·&nbsp; <b>INTELLIGENT</b></sub>
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/mirusware/mirusware/main/assets/focus-grid.svg" width="840" alt="Reliable software, security by design, scalable architecture, AI-powered solutions">
 </p>
 
 <br>
+<br>
+<br>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mirusware&hide_border=true&background=00000000&ring=34C997&fire=34C997&currStreakLabel=34C997&currStreakNum=34C997&sideNums=34C997&sideLabels=8B8B92&dates=8B8B92&stroke=2C5A47" width="38%" alt="Streak" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com?user=mirusware&hide_border=true&background=00000000&ring=34C997&fire=34C997&currStreakLabel=34C997&currStreakNum=34C997&sideNums=34C997&sideLabels=8B8B92&dates=8B8B92&stroke=2C5A47" width="44%" alt="Streak" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/mirusware/mirusware/main/assets/divider-v.svg" width="2" height="190" alt="" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/mirusware/mirusware/main/cards/profile-details.svg" width="38%" alt="Profile details" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/mirusware/mirusware/main/cards/profile-details.svg" width="44%" alt="Profile details" />
 </p>
 
 <br>
@@ -74,11 +70,11 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mirusware/mirusware/main/cards/productive-time.svg" width="38%" alt="Commits per hour" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/mirusware/mirusware/main/cards/productive-time.svg" width="44%" alt="Commits per hour" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/mirusware/mirusware/main/assets/divider-v.svg" width="2" height="190" alt="" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=mirusware&show_icons=true&hide_border=true&bg_color=00000000&title_color=34C997&icon_color=34C997&text_color=8B8B92&ring_color=34C997&custom_title=Stats" width="38%" alt="Stats" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=mirusware&show_icons=true&hide_border=true&bg_color=00000000&title_color=34C997&icon_color=34C997&text_color=8B8B92&ring_color=34C997&custom_title=Stats" width="44%" alt="Stats" />
 </p>
 
 </div>
