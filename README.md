@@ -5,12 +5,10 @@
 
 <p align="center">
 <a href="https://emirgezer.com">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=3500&size=20&pause=1000&color=34C997&center=true&vCenter=true&width=520&height=40&lines=WELCOME+TO+MY+PROFILE!;emirgezer.com;Secure.+Scalable.+Reliable+software." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=3500&size=20&pause=1000&color=34C997&center=true&vCenter=true&width=520&height=36&lines=WELCOME+TO+MY+PROFILE!;emirgezer.com;Secure.+Scalable.+Reliable+software." alt="Typing SVG" />
 </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mirusware/mirusware/main/assets/divider-h.svg" width="80%" height="3" alt="">
+<br>
+<img src="https://raw.githubusercontent.com/mirusware/mirusware/main/assets/divider-h.svg" width="80%" height="3" alt="">
 </p>
 
 <p align="center">
@@ -22,25 +20,13 @@
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=50&text=ABOUT%20ME&fontColor=34C997&fontSize=24&fontAlignY=50" alt="About me">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=ABOUT%20ME&fontColor=34C997&fontSize=24&fontAlignY=50" alt="About me">
   <br>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=34C997&height=30" width="56" alt="">
 </p>
 
 <p align="center">
-  <b>Computer engineer &amp; software developer</b><br>
-  building software that is <b>secure</b>, <b>scalable</b> and <b>reliable</b>.
-</p>
-
-<p align="center">
-  <i>Good software doesn't just work — it delivers a secure, efficient<br>
-  experience that adds real value for the people who use it.</i>
-</p>
-
-<p align="center">
-  I care about the details: a clear idea, a quiet interface, a fast experience.<br>
-  I'm especially interested in bringing <b>artificial intelligence</b><br>
-  into software to make it smarter and more capable.
+  <img src="https://raw.githubusercontent.com/mirusware/mirusware/main/assets/about-text.svg" width="840" alt="Computer engineer and software developer building software that is secure, scalable and reliable. Good software doesn't just work — it delivers a secure, efficient experience that adds real value for the people who use it. I care about the details: a clear idea, a quiet interface, a fast experience. I'm especially interested in bringing artificial intelligence into software to make it smarter and more capable.">
 </p>
 
 <br>
