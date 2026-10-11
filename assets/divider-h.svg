@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="3" viewBox="0 0 840 3" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="base" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#34C997" stop-opacity="0"/>
+      <stop offset=".15" stop-color="#34C997" stop-opacity=".45"/>
+      <stop offset=".85" stop-color="#34C997" stop-opacity=".45"/>
+      <stop offset="1" stop-color="#34C997" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="beam" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#6EE7B7" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#C6F6E3" stop-opacity="1"/>
+      <stop offset="1" stop-color="#6EE7B7" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="1" width="840" height="1" fill="url(#base)"/>
+  <rect x="0" y="0" width="160" height="3" fill="url(#beam)">
+    <animate attributeName="x" values="840;-160" dur="3.2s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines=".4 0 .6 1"/>
+  </rect>
+</svg>
