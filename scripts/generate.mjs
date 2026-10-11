@@ -1,8 +1,8 @@
 // Emerald profile cards: productive-time + profile-details.
-// Usage: GH_TOKEN=... USERNAME=emirdevs UTC_OFFSET=0 node scripts/generate.mjs   (MOCK=1 for fake data)
+// Usage: GH_TOKEN=... USERNAME=mirusware UTC_OFFSET=0 node scripts/generate.mjs   (MOCK=1 for fake data)
 import { writeFileSync, mkdirSync } from 'node:fs';
 
-const USER = process.env.USERNAME || 'emirdevs';
+const USER = process.env.USERNAME || 'mirusware';
 const OFFSET = Number(process.env.UTC_OFFSET || 0);
 const OUT = process.env.OUT_DIR || 'cards';
 const TOKEN = process.env.GH_TOKEN;
